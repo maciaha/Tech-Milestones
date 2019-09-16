@@ -1,0 +1,57 @@
+/*Type Selector*/
+html{
+  background-color: turquoise;
+}
+/*styles of classes*/
+.header {
+  background-color: turquoise;
+font-family: broadway;
+  font-size: 50px
+
+
+
+}
+.IBM{
+  color: white;
+  background-color: turquoise;
+  font-family: broadway;
+  font-size: 30px
+
+}
+.apple{
+  color: white;
+  background-color: turquoise;
+  font-family: broadway;
+  font-size: 50px
+}
+.Microsoft{
+  color: white;
+  background-color: turquoise;
+  font-family: broadway;
+  font-size: 30px
+}
+.world{
+  color: white;
+  background-color: turquoise;
+  font-family: broadway;
+  font-size: 30px
+}
+.sega{
+  color: white;
+  background-color: turquoise;
+  font-family: broadway;
+  font-size: 30px
+}
+
+*{
+  text-align: center;
+}
+
+
+
+
+/*Id Selector*/
+.ib{
+  font-style: normal;
+
+}
